@@ -8,5 +8,14 @@ O projeto utiliza dois arquivos CSV:
 Contém informações sobre os votos recebidos por candidato em cada seção eleitoral:  
 votos_por_secao.csv  
 Contém informações sobre as seções eleitorais, locais de votação e endereços:  
-locais_de_votacao.csv  
+locais_de_votacao.csv 
+
+🛠️ Tecnologias e Bibliotecas Utilizadas  
+Linguagem: Python  
+Bibliotecas:Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Ambiente recomendado: Jupyter Notebook ou IDE Python (VS Code, PyCharm)
+
 
