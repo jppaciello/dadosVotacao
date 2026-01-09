@@ -4,5 +4,9 @@ Projeto acadêmico desenvolvido com o objetivo de aplicar conceitos de análise 
 
 📂 Bases de Dados Utilizadas
 
-O projeto utiliza dois arquivos CSV:
-votos_por_secao.csv  Contém informações sobre os votos recebidos por candidato em cada seção eleitoral: locais_de_votacao.csv  Contém informações sobre as seções eleitorais, locais de votação e endereços.
+O projeto utiliza dois arquivos CSV:  
+Contém informações sobre os votos recebidos por candidato em cada seção eleitoral:  
+votos_por_secao.csv  
+Contém informações sobre as seções eleitorais, locais de votação e endereços:  
+locais_de_votacao.csv  
+
